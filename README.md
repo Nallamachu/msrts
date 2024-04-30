@@ -7,7 +7,7 @@ The project “MSTS Portal” is a responsive website made using HTML, CSS, Boot
 ## Website Link
 
 Go check this website!!
-https://priyansh42.github.io/IT-Company-Website/
+https://Nallamachu.github.io/msts/
 
 ##
 
